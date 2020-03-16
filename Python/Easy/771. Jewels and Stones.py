@@ -6,5 +6,6 @@ class Solution:
                 cnt +=1
         return cnt
 
+    # simpler version
     def numJewelsInStones(self, J, S):
         return sum(map(J.count, S))

@@ -3,19 +3,23 @@
 ### String
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
+  - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
   - [1108. Defanging an IP Address](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
   - [1221. Split a String in Balanced Strings](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)
 
 ### Array
+  - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
   - [561. Array Partition I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/561.%20Array%20Partition%20I.py) 
   - [905. Sort Array By Parity](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/905.%20Sort%20Array%20By%20Parity.py) 
   - [1086. High Five](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1086.%20High%20Five.py) 
 
 ### Tree
+  - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
+  - [669. Trim a Binary Search Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
   - [938. Range Sum of BST](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/938.%20Range%20Sum%20of%20BST.py) 
-  
+
 ### Hash Table
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
@@ -30,7 +34,8 @@
   - [346. Moving Average from Data Stream](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/346.%20Moving%20Average%20from%20Data%20Stream.py)
 
 ### Stack
-  - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.pys)
+  - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
+  - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
 
 ## Algorithm & Topics
@@ -45,7 +50,9 @@
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Depth-first Search  
+  - [104. Maximum Depth of Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/339.%20Nested%20List%20Weight%20Sum.py)
   - [339. Nested List Weight Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/339.%20Nested%20List%20Weight%20Sum.py)
+
 
 ### Math
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

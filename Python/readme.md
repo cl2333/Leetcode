@@ -3,12 +3,12 @@
 ### String
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
-  - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
+  - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
   - [1108. Defanging an IP Address](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
   - [1221. Split a String in Balanced Strings](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)
 
 ### Array
-  - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
+  - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
   - [561. Array Partition I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/561.%20Array%20Partition%20I.py) 
   - [905. Sort Array By Parity](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/905.%20Sort%20Array%20By%20Parity.py) 
@@ -17,7 +17,7 @@
 ### Tree
   - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
-  - [669. Trim a Binary Search Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
+  - [669. Trim a Binary Search Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/669.%20Trim%20a%20Binary%20Search%20Tree.py) 
   - [938. Range Sum of BST](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/938.%20Range%20Sum%20of%20BST.py) 
 
 ### Hash Table
@@ -34,7 +34,7 @@
   - [346. Moving Average from Data Stream](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/346.%20Moving%20Average%20from%20Data%20Stream.py)
 
 ### Stack
-  - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
+  - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
 
@@ -50,7 +50,7 @@
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Depth-first Search  
-  - [104. Maximum Depth of Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/339.%20Nested%20List%20Weight%20Sum.py)
+  - [104. Maximum Depth of Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [339. Nested List Weight Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/339.%20Nested%20List%20Weight%20Sum.py)
 
 

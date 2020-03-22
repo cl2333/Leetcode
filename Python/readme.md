@@ -24,6 +24,7 @@
   - [938. Range Sum of BST](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/938.%20Range%20Sum%20of%20BST.py) 
 
 ### Hash Table
+  - [1. Two Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -37,6 +38,8 @@
   - [346. Moving Average from Data Stream](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/346.%20Moving%20Average%20from%20Data%20Stream.py)
 
 ### Stack
+  - [20. Valid Parentheses](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
+  - [155. Min Stack](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
   - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
@@ -56,6 +59,7 @@
 ### Dynamic Programming
  - [53. Maximum Subarray](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/53.%20Maximum%20Subarray.py)
  - [70. Climbing Stairs](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/70.%20Climbing%20Stairs.py)
+ - [121. Best Time to Buy and Sell Stock](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [198. House Robber](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [256. Paint House](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Painted%20House.py)
 

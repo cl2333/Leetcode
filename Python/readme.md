@@ -6,6 +6,7 @@
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
   - [1108. Defanging an IP Address](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
   - [1221. Split a String in Balanced Strings](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)
+  - [8. String to Integer (atoi)]()
 
 ### Array
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
@@ -33,6 +34,7 @@
 
 ### Linked List
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
+  - [2. Add Two Numbers]( )
 
 ### Queue
   - [346. Moving Average from Data Stream](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/346.%20Moving%20Average%20from%20Data%20Stream.py)
@@ -49,6 +51,7 @@
   - [1122. Relative Sort Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1122.%20Relative%20Sort%20Array.py)
 
 ### Two pointers
+  - [3. Longest Substring Without Repeating Characters]( )
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)

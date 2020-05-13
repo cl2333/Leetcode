@@ -52,6 +52,7 @@
 
 ### Two pointers
   - [3. Longest Substring Without Repeating Characters]( )
+  - [15. 3Sum]( )
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)

@@ -1,14 +1,17 @@
 ## Data structure
 
 ### String
+  - [8. String to Integer (atoi)]()
+  - [14. Longest Common Prefix]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
   - [1108. Defanging an IP Address](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
   - [1221. Split a String in Balanced Strings](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)
-  - [8. String to Integer (atoi)]()
+
 
 ### Array
+  - [16. 3Sum Closest]( )
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 

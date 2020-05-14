@@ -1,6 +1,7 @@
 ## Data structure
 
 ### String
+  - [5. Longest Palindromic Substring]()
   - [8. String to Integer (atoi)]()
   - [14. Longest Common Prefix]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)

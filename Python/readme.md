@@ -2,6 +2,7 @@
 
 ### String
   - [5. Longest Palindromic Substring]()
+  - [6. ZigZag Conversion]()
   - [8. String to Integer (atoi)]()
   - [14. Longest Common Prefix]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
@@ -37,8 +38,9 @@
   - [1160. Find Words That Can Be Formed by Characters](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) 
 
 ### Linked List
+  - [2. Add Two Numbers]()
+  - [19. Remove Nth Node From End of List]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
-  - [2. Add Two Numbers]( )
 
 ### Queue
   - [346. Moving Average from Data Stream](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/346.%20Moving%20Average%20from%20Data%20Stream.py)

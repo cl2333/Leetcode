@@ -1,10 +1,10 @@
 ## Data structure
 
 ### String
-  - [5. Longest Palindromic Substring]()
-  - [6. ZigZag Conversion]()
-  - [8. String to Integer (atoi)]()
-  - [14. Longest Common Prefix]()
+  - [5. Longest Palindromic Substring](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/5.%20Longest%20Palindromic%20Substring.py)
+  - [6. ZigZag Conversion](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/6.%20ZigZag%20Conversion.py)
+  - [8. String to Integer (atoi)](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/8.%20String%20to%20Integer%20(atoi).py)
+  - [14. Longest Common Prefix](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/14.%20Longest%20Common%20Prefix.py)
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
@@ -13,7 +13,7 @@
 
 
 ### Array
-  - [16. 3Sum Closest]( )
+  - [16. 3Sum Closest](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/16.%203Sum%20Closest.py)
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -58,7 +58,7 @@
 
 ### Two pointers
   - [3. Longest Substring Without Repeating Characters]( )
-  - [15. 3Sum]( )
+  - [15. 3Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/15.%203Sum.py)
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)

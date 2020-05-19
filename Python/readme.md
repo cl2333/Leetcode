@@ -7,6 +7,7 @@
   - [12. Integer to Roman]()
   - [14. Longest Common Prefix](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/14.%20Longest%20Common%20Prefix.py)
   - [17. Letter Combinations of a Phone Number]( )
+  - [22. Generate Parentheses]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
@@ -41,6 +42,8 @@
 ### Linked List
   - [2. Add Two Numbers]()
   - [19. Remove Nth Node From End of List]()
+  - [21. Merge Two Sorted Lists]()
+  - [24. Swap Nodes in Pairs]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
 ### Queue
@@ -63,6 +66,7 @@
   - [15. 3Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/15.%203Sum.py)
   - [16. 3Sum Closest](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/16.%203Sum%20Closest.py)
   - [18. 4Sum]()
+  - [26. Remove Duplicates from Sorted Array]()
   - [27. Remove Element]()
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)

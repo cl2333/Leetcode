@@ -8,6 +8,7 @@
   - [14. Longest Common Prefix](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/14.%20Longest%20Common%20Prefix.py)
   - [17. Letter Combinations of a Phone Number]( )
   - [22. Generate Parentheses]()
+  - [28. Implement strStr()]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
@@ -74,6 +75,8 @@
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
 
 ### Binary Search
+  - [33. Search in Rotated Sorted Array *] ()
+  - [34. Find First and Last Position of Element in Sorted Array *]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming

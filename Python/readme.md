@@ -16,6 +16,7 @@
 
 
 ### Array
+  - [31. Next Permutation *]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -91,4 +92,5 @@
   - [7. Reverse Integer]()
   - [9. Palindrome Number]()
   - [13. Roman to Integer]()
+  - [29. Divide Two Integers *]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

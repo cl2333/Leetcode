@@ -9,6 +9,7 @@
   - [17. Letter Combinations of a Phone Number]( )
   - [22. Generate Parentheses]()
   - [28. Implement strStr()]()
+  - [38. Count and Say]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
@@ -18,6 +19,8 @@
 
 ### Array
   - [31. Next Permutation *]()
+  - [35. Search Insert Position]( )
+  - [48. Rotate Image]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -35,6 +38,7 @@
 
 ### Hash Table
   - [1. Two Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1.%20Two%20Sum.py) 
+  - [36. Valid Sudoku]()
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -96,4 +100,5 @@
   - [9. Palindrome Number]()
   - [13. Roman to Integer]()
   - [29. Divide Two Integers *]()
+  - [43. Multiply Strings*]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

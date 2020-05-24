@@ -6,7 +6,6 @@
   - [8. String to Integer (atoi)](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/8.%20String%20to%20Integer%20(atoi).py)
   - [12. Integer to Roman]()
   - [14. Longest Common Prefix](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/14.%20Longest%20Common%20Prefix.py)
-  - [17. Letter Combinations of a Phone Number]( )
   - [22. Generate Parentheses]()
   - [28. Implement strStr()]()
   - [38. Count and Say]()
@@ -39,6 +38,7 @@
 ### Hash Table
   - [1. Two Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1.%20Two%20Sum.py) 
   - [36. Valid Sudoku]()
+  - [49. Group Anagrams]()
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -94,6 +94,11 @@
   - [101. Symmetric Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/101.%20Symmetric%20Tree.py)
   - [104. Maximum Depth of Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)
   - [339. Nested List Weight Sum](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/339.%20Nested%20List%20Weight%20Sum.py)
+
+### Backtracking
+  - [17. Letter Combinations of a Phone Number]( )
+  - [39. Combination Sum *]()
+  - [40. Combination Sum II]()
 
 ### Math
   - [7. Reverse Integer]()

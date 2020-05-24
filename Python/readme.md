@@ -99,6 +99,8 @@
   - [17. Letter Combinations of a Phone Number]( )
   - [39. Combination Sum *]()
   - [40. Combination Sum II]()
+  - [46. Permutations]()
+  - [47. Permutations II]()
 
 ### Math
   - [7. Reverse Integer]()
@@ -106,4 +108,5 @@
   - [13. Roman to Integer]()
   - [29. Divide Two Integers *]()
   - [43. Multiply Strings*]()
+  - [50. Pow(x, n)]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

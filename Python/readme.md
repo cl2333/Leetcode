@@ -79,7 +79,7 @@
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
 
 ### Binary Search
-  - [33. Search in Rotated Sorted Array *] ()
+  - [33. Search in Rotated Sorted Array *]()
   - [34. Find First and Last Position of Element in Sorted Array *]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 

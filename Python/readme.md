@@ -9,6 +9,7 @@
   - [22. Generate Parentheses]()
   - [28. Implement strStr()]()
   - [38. Count and Say]()
+  - [58. Length of Last Word]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
@@ -20,6 +21,8 @@
   - [31. Next Permutation *]()
   - [35. Search Insert Position]( )
   - [48. Rotate Image]()
+  - [54. Spiral Matrix*]()
+  - [59. Spiral Matrix II]
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -64,6 +67,7 @@
 
 ## Algorithm & Topics
 ### Sort
+  - [56. Merge Intervals]()
   - [1122. Relative Sort Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1122.%20Relative%20Sort%20Array.py)
 
 ### Two pointers
@@ -85,6 +89,7 @@
 
 ### Dynamic Programming
  - [53. Maximum Subarray](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/53.%20Maximum%20Subarray.py)
+ - [55. Jump Game *]()
  - [70. Climbing Stairs](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/70.%20Climbing%20Stairs.py)
  - [121. Best Time to Buy and Sell Stock](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
  - [198. House Robber](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)

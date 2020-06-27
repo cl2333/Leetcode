@@ -68,6 +68,7 @@
 ## Algorithm & Topics
 ### Sort
   - [56. Merge Intervals]()
+  - [57. Insert Interval]()
   - [1122. Relative Sort Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1122.%20Relative%20Sort%20Array.py)
 
 ### Two pointers

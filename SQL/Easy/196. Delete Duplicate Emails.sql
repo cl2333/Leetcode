@@ -17,4 +17,4 @@ on p.email = pp.email and p.id<pp.id)
 
 Delete from
 Person
-where ID IN (Select id from cte)s
+where ID IN (Select id from cte)

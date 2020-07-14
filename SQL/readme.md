@@ -13,3 +13,7 @@
 - [176. Second Highest Salary]()
 - [196. Delete Duplicate Emails]()
 - [197. Rising Temperature *]()
+- [182. Duplicate Emails]()
+- [1350. Students With Invalid Departments]()
+- [603. Consecutive Available Seats *]()
+- [1142. User Activity for the Past 30 Days II*]()

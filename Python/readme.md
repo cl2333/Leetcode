@@ -53,6 +53,7 @@
   - [19. Remove Nth Node From End of List]()
   - [21. Merge Two Sorted Lists]()
   - [24. Swap Nodes in Pairs]()
+  - [61. Rotate List]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
 ### Queue
@@ -115,4 +116,5 @@
   - [29. Divide Two Integers *]()
   - [43. Multiply Strings*]()
   - [50. Pow(x, n)]()
+  - [60. Permutation Sequence *]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

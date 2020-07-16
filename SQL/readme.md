@@ -11,6 +11,8 @@
 - [608. Tree Node]()
 - [570. Managers with at Least 5 Direct Reports]()
 - [1132. Reported Posts II]() (social media analysis)
+- [1341. Movie Rating]()
+- [602. Friend Requests II: Who Has the Most Friends]()
 
 #Easy
 - [176. Second Highest Salary]()

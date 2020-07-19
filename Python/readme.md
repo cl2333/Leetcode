@@ -108,6 +108,10 @@
   - [40. Combination Sum II]()
   - [46. Permutations]()
   - [47. Permutations II]()
+  - [60. Permutation Sequence]()
+  - [77. Combinations]()
+  - [78. Subsets]()
+
 
 ### Math
   - [7. Reverse Integer]()

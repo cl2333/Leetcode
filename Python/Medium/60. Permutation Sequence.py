@@ -18,3 +18,22 @@ class Solution:
 
 # Timeout Error
 
+
+class Solution:
+    def getPermutation(self, n: int, k: int) -> str:
+        factorials, nums = [1], ['1']
+        for i in range(1, n):
+            factorials.append(factorials[i-1]*i)
+            nums.append(str(i+1))
+        
+        k -= 1
+        
+        result = ''
+        for i in range(n):
+            idx = k // factorials[-1]
+            result += nums[idx]
+            k = k%factorials[-1]
+            del factorials[-1]
+            del nums[idx]
+        
+        return result

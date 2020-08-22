@@ -1,5 +1,8 @@
 #Hard
 - [262. Trips and Users * ]() (cancel rate, uber/lyft/didi)
+- [615. Average Salary: Departments VS Company]()
+- [569. Median Employee Salary *]()
+- [601. Human Traffic of Stadium*]()
 
 #Medium
 - [1270. All People Report to the Given Manager *]() (Recursive CTE)
@@ -13,6 +16,7 @@
 - [1132. Reported Posts II]() (social media analysis)
 - [1341. Movie Rating]()
 - [602. Friend Requests II: Who Has the Most Friends]()
+- [1393. Capital Gain/Loss *]()(buy -price; sell price)
 
 #Easy
 - [176. Second Highest Salary]()
@@ -23,3 +27,4 @@
 - [603. Consecutive Available Seats *]() (lead/lag)
 - [1142. User Activity for the Past 30 Days II*]() (be careful of the inclusive/exclusive problem)
 - [597. Friend Requests I: Overall Acceptance Rate*]()  (be careful of the difference between MySQL and MSSQL)
+- [1251. Average Selling Price]()

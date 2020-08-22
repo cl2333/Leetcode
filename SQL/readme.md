@@ -3,6 +3,7 @@
 - [615. Average Salary: Departments VS Company]()
 - [569. Median Employee Salary *]()
 - [601. Human Traffic of Stadium*]()
+- [1412. Find the Quiet Students in All Exams]()
 
 #Medium
 - [1270. All People Report to the Given Manager *]() (Recursive CTE)
@@ -17,6 +18,10 @@
 - [1341. Movie Rating]()
 - [602. Friend Requests II: Who Has the Most Friends]()
 - [1393. Capital Gain/Loss *]()(buy -price; sell price)
+- [1112. Highest Grade For Each Student]()
+- [1445. Apples & Oranges]()
+- [1454. Active Users*]()
+- [1321. Restaurant Growth*]()(moving average, use avg(amount) over (partition by ... rows between n preceding and current row))
 
 #Easy
 - [176. Second Highest Salary]()
@@ -28,3 +33,4 @@
 - [1142. User Activity for the Past 30 Days II*]() (be careful of the inclusive/exclusive problem)
 - [597. Friend Requests I: Overall Acceptance Rate*]()  (be careful of the difference between MySQL and MSSQL)
 - [1251. Average Selling Price]()
+- [610. Triangle Judgement]()

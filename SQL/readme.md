@@ -4,6 +4,12 @@
 - [569. Median Employee Salary *]()
 - [601. Human Traffic of Stadium*]()
 - [1412. Find the Quiet Students in All Exams]()
+- [1479. Sales by Day of the Week]()
+- [1225. Report Contiguous Dates*]()(how to calculate counts about contiguous dates with intervals)
+- [1369. Get the Second Most Recent Activity]()
+- [579. Find Cumulative Salary of an Employee]()
+- [1194. Tournament Winners]()
+- [1127. User Purchase Platform]()
 
 #Medium
 - [1270. All People Report to the Given Manager *]() (Recursive CTE)
@@ -21,7 +27,10 @@
 - [1112. Highest Grade For Each Student]()
 - [1445. Apples & Oranges]()
 - [1454. Active Users*]()
-- [1321. Restaurant Growth*]()(moving average, use avg(amount) over (partition by ... rows between n preceding and current row))
+- [1321. Restaurant Growth*]()(moving average: use avg(amount) over (partition by ... rows between n preceding and current row), limit n(offest), rows_count)
+- [1164. Product Price at a Given Date]()(select distinct p.product_id, ifnull(new.price,10) as price
+from products p left join new_table)
+- [1398. Customers Who Bought Products A and B but Not C]()
 
 #Easy
 - [176. Second Highest Salary]()

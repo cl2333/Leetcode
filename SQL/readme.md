@@ -10,6 +10,8 @@
 - [579. Find Cumulative Salary of an Employee]()
 - [1194. Tournament Winners]()
 - [1127. User Purchase Platform]()
+- [618. Students Report By Geography *]()(rows to columns)
+- [571. Find Median Given Frequency of Numbers*]()
 
 #Medium
 - [1270. All People Report to the Given Manager *]() (Recursive CTE)
@@ -31,6 +33,7 @@
 - [1164. Product Price at a Given Date]()(select distinct p.product_id, ifnull(new.price,10) as price
 from products p left join new_table)
 - [1398. Customers Who Bought Products A and B but Not C]()
+- [1355. Activity Participants]()
 
 #Easy
 - [176. Second Highest Salary]()

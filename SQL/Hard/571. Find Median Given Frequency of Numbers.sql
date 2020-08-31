@@ -1,10 +1,9 @@
-select avg(1.0*Number) as median
-
-from 
-(
-select *, sum(frequency) over (order by Number) as cum_sum
-        , (sum(Frequency) over ())/2.0  as mid
-from Numbers
-    ) temp
-    
-where mid between cum_sum - frequency and cum_sum
+SELECT Avg(1.0 * number) AS median 
+FROM   (SELECT *, 
+               Sum(frequency) 
+                 OVER ( 
+                   ORDER BY number) AS cum_sum, 
+               ( Sum(frequency) 
+                   OVER () ) / 2.0  AS mid 
+        FROM   numbers) temp 
+WHERE  mid BETWEEN cum_sum - frequency AND cum_sum 

@@ -12,6 +12,7 @@
 - [1127. User Purchase Platform]()
 - [618. Students Report By Geography *]()(rows to columns)
 - [571. Find Median Given Frequency of Numbers*]()
+- [1097. Game Play Analysis V]()
 
 #Medium
 - [1270. All People Report to the Given Manager *]() (Recursive CTE)
@@ -34,6 +35,11 @@
 from products p left join new_table)
 - [1398. Customers Who Bought Products A and B but Not C]()
 - [1355. Activity Participants]()
+- [1421. NPV Queries]()
+- [1193. Monthly Transactions I]()
+- [614. Second Degree Follower]()
+- [1077. Project Employees III]()
+- [574. Winning Candidate]()
 
 #Easy
 - [176. Second Highest Salary]()
@@ -46,3 +52,4 @@ from products p left join new_table)
 - [597. Friend Requests I: Overall Acceptance Rate*]()  (be careful of the difference between MySQL and MSSQL)
 - [1251. Average Selling Price]()
 - [610. Triangle Judgement]()
+- [1068. Product Sales Analysis I]()

@@ -13,6 +13,7 @@
 - [618. Students Report By Geography *]()(rows to columns)
 - [571. Find Median Given Frequency of Numbers*]()
 - [1097. Game Play Analysis V]()
+- [1159. Market Analysis II]()
 
 #Medium
 - [1270. All People Report to the Given Manager *]() (Recursive CTE)
@@ -40,6 +41,12 @@ from products p left join new_table)
 - [614. Second Degree Follower]()
 - [1077. Project Employees III]()
 - [574. Winning Candidate]()
+- [1158. Market Analysis I]()
+- [550. Game Play Analysis IV]()
+- [612. Shortest Distance in a Plane]()(a join b on a.x != b.x or a.y != b.y)
+- [1501. Countries You Can Safely Invest In *]()(succinct sql with select from cte group by ... having(avg) > (select avg()from cte) )
+- [1549. The Most Recent Orders for Each Product]()
+- [1532. The Most Recent Three Orders]()
 
 #Easy
 - [176. Second Highest Salary]()

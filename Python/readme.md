@@ -92,6 +92,7 @@
 ### Dynamic Programming
  - [53. Maximum Subarray](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/53.%20Maximum%20Subarray.py)
  - [55. Jump Game *]()
+ - [64. Minimum Path Sum *]()(bottom-up)
  - [70. Climbing Stairs](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/70.%20Climbing%20Stairs.py)
  - [121. Best Time to Buy and Sell Stock](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
  - [198. House Robber](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
@@ -121,4 +122,5 @@
   - [43. Multiply Strings*]()
   - [50. Pow(x, n)]()
   - [60. Permutation Sequence *]()
+  - [62. Unique Paths]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

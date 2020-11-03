@@ -123,4 +123,5 @@
   - [50. Pow(x, n)]()
   - [60. Permutation Sequence *]()
   - [62. Unique Paths]()
+  - [67. Add Binary]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

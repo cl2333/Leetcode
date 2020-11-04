@@ -22,7 +22,8 @@
   - [35. Search Insert Position]( )
   - [48. Rotate Image]()
   - [54. Spiral Matrix*]()
-  - [59. Spiral Matrix II]
+  - [59. Spiral Matrix II]()
+  - [73. Set Matrix Zeroes]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -54,6 +55,7 @@
   - [21. Merge Two Sorted Lists]()
   - [24. Swap Nodes in Pairs]()
   - [61. Rotate List]()
+  - [86. Partition List*]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
 ### Queue
@@ -61,6 +63,7 @@
 
 ### Stack
   - [20. Valid Parentheses](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/20.%20Valid%20Parentheses.py)
+  - [71. Simplify Path *]()
   - [155. Min Stack](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/155.%20Min%20Stack.py)
   - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
@@ -80,6 +83,7 @@
   - [18. 4Sum]()
   - [26. Remove Duplicates from Sorted Array]()
   - [27. Remove Element]()
+  - [75. Sort Colors *]()
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
@@ -87,6 +91,8 @@
 ### Binary Search
   - [33. Search in Rotated Sorted Array *]()
   - [34. Find First and Last Position of Element in Sorted Array *]()
+  - [74. Search a 2D Matrix]()
+  - [80. Remove Duplicates from Sorted Array II]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming
@@ -123,5 +129,6 @@
   - [50. Pow(x, n)]()
   - [60. Permutation Sequence *]()
   - [62. Unique Paths]()
-  - [67. Add Binary]()
+  - [67. Add Binary *]()
+  - [69. Sqrt(x)]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)

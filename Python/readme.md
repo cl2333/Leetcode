@@ -23,7 +23,7 @@
   - [48. Rotate Image]()
   - [54. Spiral Matrix*]()
   - [59. Spiral Matrix II]()
-  - [73. Set Matrix Zeroes]()
+  - [73. Set Matrix Zeroes*]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -55,6 +55,8 @@
   - [21. Merge Two Sorted Lists]()
   - [24. Swap Nodes in Pairs]()
   - [61. Rotate List]()
+  - [82. Remove Duplicates from Sorted List II*]()
+  - [83. Remove Duplicates from Sorted List]()
   - [86. Partition List*]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
@@ -84,6 +86,7 @@
   - [26. Remove Duplicates from Sorted Array]()
   - [27. Remove Element]()
   - [75. Sort Colors *]()
+  - [88. Merge Sorted Array]
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)

@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
 
-        O(m+n) space
+        #O(m+n) space
         row_index = [False] * len(matrix)
         col_index = [False] * len(matrix[0])
         

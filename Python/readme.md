@@ -96,6 +96,7 @@
   - [34. Find First and Last Position of Element in Sorted Array *]()
   - [74. Search a 2D Matrix]()
   - [80. Remove Duplicates from Sorted Array II]()
+  - [81. Search in Rotated Sorted Array II **]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming
@@ -121,6 +122,8 @@
   - [60. Permutation Sequence]()
   - [77. Combinations]()
   - [78. Subsets]()
+  - [89. Gray Code*]()
+  - [90. Subsets II*]()
 
 
 ### Math

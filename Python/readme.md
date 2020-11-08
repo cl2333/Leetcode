@@ -33,7 +33,7 @@
   - [1086. High Five](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1086.%20High%20Five.py) 
 
 ### Tree
-  - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py)
+  - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/226.%Invert%%20Binary%20Trees.py)
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
   - [669. Trim a Binary Search Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/669.%20Trim%20a%20Binary%20Search%20Tree.py) 
@@ -58,6 +58,7 @@
   - [82. Remove Duplicates from Sorted List II*]()
   - [83. Remove Duplicates from Sorted List]()
   - [86. Partition List*]()
+  - [92. Reverse Linked List II]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
 ### Queue
@@ -104,6 +105,7 @@
  - [55. Jump Game *]()
  - [64. Minimum Path Sum *]()(bottom-up)
  - [70. Climbing Stairs](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/70.%20Climbing%20Stairs.py)
+ - [91. Decode Ways]()
  - [121. Best Time to Buy and Sell Stock](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
  - [198. House Robber](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [256. Paint House](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
@@ -124,7 +126,7 @@
   - [78. Subsets]()
   - [89. Gray Code*]()
   - [90. Subsets II*]()
-
+  - [93. Restore IP Addresses]()
 
 ### Math
   - [7. Reverse Integer]()

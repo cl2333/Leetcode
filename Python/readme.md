@@ -33,6 +33,7 @@
   - [1086. High Five](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1086.%20High%20Five.py) 
 
 ### Tree
+  - [94. Binary Tree Inorder Traversal]()
   - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/226.%Invert%%20Binary%20Trees.py)
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
@@ -124,6 +125,7 @@
   - [60. Permutation Sequence]()
   - [77. Combinations]()
   - [78. Subsets]()
+  - [79. Word Search*]()
   - [89. Gray Code*]()
   - [90. Subsets II*]()
   - [93. Restore IP Addresses]()

@@ -7,51 +7,24 @@
 
 class Solution:
     def isSymmetric(self, root: TreeNode) -> bool:
-        
-    
-        def Symmetric(p,q):
-            if not p and not q:
-                return True
-            if p and q and p.val==q.val:
-                return Symmetric(p.left,q.right) and Symmetric(p.right,q.left)
-            return False
-            
-        
-        return not root or Symmetric(root.left,root.right)
-        
-        #using stack
-
-        queue=[]
-        
         if not root:
             return True
-        if not root.left and not root.right:
+        return self.symmetric(root.left, root.right)
+    
+    def symmetric(self, left, right):
+        if not left and not right:
             return True
-        elif root.left and root.right and root.left.val==root.right.val:
-            queue.append(root.left)
-            queue.append(root.right)
-        else:
+        elif (not left and right) or (not right and left):
+            return False
+
+        elif left.val != right.val:
             return False
         
-        flag=True
-        while queue:
-            right=queue.pop()
-            left=queue.pop()
+        res = self.symmetric(left.left, right.right) and self.symmetric(left.right, right.left)
+        
+        return res
             
-            if not left.left and not right.right:
-                flag=True
-            elif left.left and right.right and left.left.val==right.right.val:
-                queue.append(left.left)
-                queue.append(right.right)
-            else:
-                return False
             
-            if not left.right and not right.left:
-                flag=True
-            elif left.right and right.left and right.left.val==left.right.val:
-                queue.append(left.right)
-                queue.append(right.left)
-            else:
-                return False
             
-        return flag
+        
+        

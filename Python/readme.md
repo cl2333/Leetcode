@@ -34,6 +34,16 @@
 
 ### Tree
   - [94. Binary Tree Inorder Traversal]()
+  - [95. Unique Binary Search Trees II *]()
+  - [96. Unique Binary Search Trees*]()
+  - [98. Validate Binary Search Tree*]()
+  - [100. Same Tree]()
+  - [102. Binary Tree Level Order Traversal]()
+  - [103. Binary Tree Zigzag Level Order Traversal]()
+  - [104. Maximum Depth of Binary Tree]()
+  - [107. Binary Tree Level Order Traversal II]()
+  - [144. Binary Tree Inorder Traversal]()
+  - [145. Binary Tree Postorder Traversal]()
   - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/226.%Invert%%20Binary%20Trees.py)
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 

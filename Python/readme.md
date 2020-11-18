@@ -12,6 +12,7 @@
   - [58. Length of Last Word]()
   - [125. Valid Palindrome]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
+  - [680. Valid Palindrome II*]()
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
   - [821. Shortest Distance to a Character](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/821.%20Shortest%20Distance%20to%20a%20Character.py)
   - [1108. Defanging an IP Address](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1108.%20Defanging%20an%20IP%20Address.py)
@@ -32,6 +33,7 @@
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
   - [561. Array Partition I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/561.%20Array%20Partition%20I.py) 
+  - [611. Valid Triangle Number *]()
   - [905. Sort Array By Parity](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/905.%20Sort%20Array%20By%20Parity.py) 
   - [1086. High Five](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1086.%20High%20Five.py) 
 
@@ -121,6 +123,7 @@
   - [74. Search a 2D Matrix]()
   - [80. Remove Duplicates from Sorted Array II]()
   - [81. Search in Rotated Sorted Array II **]()
+  - [162. Find Peak Element]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming
@@ -134,6 +137,7 @@
  - [122. Best Time to Buy and Sell Stock II]()
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
+ - [516. Longest Palindromic Subsequence]()
 
 ### Breath-first Search
   - [127. Word Ladder *]()
@@ -156,6 +160,9 @@
   - [89. Gray Code*]()
   - [90. Subsets II*]()
   - [93. Restore IP Addresses]()
+
+### Divide and Conquer
+  - [215. Kth Largest Element in an Array*]()
 
 ### Math
   - [7. Reverse Integer]()

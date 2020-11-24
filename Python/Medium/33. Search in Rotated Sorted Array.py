@@ -1,33 +1,35 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
+    """
+    @param A: an integer rotated sorted array
+    @param target: an integer to be searched
+    @return: an integer
+    """
+    def search(self, nums, target):
+        # write your code here
         if not nums:
             return -1
+
         
-        start, end = 0, len(nums)-1
-        
-        
-        
-        while start <= end:
+        start, end =  0, len(nums) - 1 
+        while start + 1 < end:
+            mid = start + (end - start) // 2
             
-            mid = (start + end) //2
-            print(start,end,mid)
-            if nums[mid] == target:
-                return mid
-            
-            if nums[start] <= target:
-                if nums[mid] < nums[start]:
-                    end = mid -1
-                elif nums[mid] > nums[start] and target < nums[mid]:
-                    end = mid -1
+            if nums[mid] >= nums[start]:
+                if nums[start] <= target <= nums[mid]:
+                    end = mid
                 else:
-                    start = mid+1
+                    start = mid
             else:
-                if nums[mid] >= nums[start]:
-                    start = mid + 1
-                elif nums[mid] < nums[start] and target > nums[mid]:
-                    start = mid + 1
+                if nums[mid] <= target <= nums[end]:
+                    start = mid
                 else:
-                    end = mid - 1
+                    end = mid
+                    
+            
+        if nums[start] == target:
+            return start
+        if nums[end] == target:
+            return end
         
         return -1
                     

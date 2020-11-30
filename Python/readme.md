@@ -61,6 +61,7 @@
   - [144. Binary Tree Inorder Traversal]()
   - [145. Binary Tree Postorder Traversal]()
   - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/226.%Invert%%20Binary%20Trees.py)
+  - [236. Lowest Common Ancestor of a Binary Tree*]()
   - [270. Closest Binary Search Tree Value *]()
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
@@ -146,6 +147,7 @@
 ### Breath-first Search
   - [127. Word Ladder *]()
   - [130. Surrounded Regions*]()
+  - [133. Clone Graph]()
   - [200. Number of Islands]()
 
 ### Depth-first Search  
@@ -182,3 +184,7 @@
   - [67. Add Binary *]()
   - [69. Sqrt(x)]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
+
+  ### Topological Sort
+  - [207. Course Schedule]()
+  - [210. Course Schedule II*]()

@@ -1,15 +1,19 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        return self.find(sorted(candidates), target, [], [])
+        results = []
+        self.find(sorted(candidates), 0, target, [], results)
+        return results
     
-    def find(self, candidates, target, temp, ans):
+    def find(self, candidates, index, target, combination, results):
         if target == 0:
-            ans.append(temp)
+            results.append(list(combination))
+        if target < 0:
+            return 
         
-        for i in range(len(candidates)):
-            if i > 0 and candidates[i] == candidates[i-1]:
+        for i in range(index, len(candidates)):
+            if i > index and candidates[i] == candidates[i-1]:
                 continue
-            if candidates[i] <= target:
-                self.find(candidates[i+1:], target - candidates[i], temp + [candidates[i]], ans )
-        return ans
+            combination.append(candidates[i])
+            self.find(candidates, i+1, target - candidates[i], combination, results)
+            combination.pop()
         

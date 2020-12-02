@@ -1,13 +1,16 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        return self.find(sorted(candidates), target, [], [])
+        results = []
+        self.find(sorted(list(set(candidates))), 0, target, [], results)
+        return results
     
-    def find(self, candidates, target, temp, ans):
+    def find(self, candidates, index, target, combination, results):
         if target == 0:
-            ans.append(temp)
+            results.append(list(combination))
+        if target < 0:
+            return 
         
-        for i in range(len(candidates)):
-            if candidates[i] <= target:
-                self.find(candidates[i:], target - candidates[i], temp + [candidates[i]], ans )
-        return ans
-        
+        for i in range(index, len(candidates)):
+            combination.append(candidates[i])
+            self.find(candidates, i, target - candidates[i], combination, results)
+            combination.pop()

@@ -6,7 +6,6 @@
   - [8. String to Integer (atoi)](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/8.%20String%20to%20Integer%20(atoi).py)
   - [12. Integer to Roman]()
   - [14. Longest Common Prefix](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/14.%20Longest%20Common%20Prefix.py)
-  - [22. Generate Parentheses]()
   - [28. Implement strStr()]()
   - [38. Count and Say]()
   - [58. Length of Last Word]()
@@ -30,6 +29,7 @@
   - [119. Pascal's Triangle II]()
   - [153. Find Minimum in Rotated Sorted Array]()
   - [154. Find Minimum in Rotated Sorted Array II*]()
+  - [162. Find Peak Element]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -52,6 +52,7 @@
   - [106. Construct Binary Tree from Inorder and Postorder Traversal]()
   - [107. Binary Tree Level Order Traversal II]()
   - [108. Convert Sorted Array to Binary Search Tree]()
+  - [109. Convert Sorted List to Binary Search Tree*]()
   - [110. Balanced Binary Tree]()
   - [111. Minimum Depth of Binary Tree]()
   - [112. Path Sum]()
@@ -78,6 +79,7 @@
   - [36. Valid Sudoku]()
   - [49. Group Anagrams]()
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
+  - [137. Single Number II]()
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [454. 4Sum II]()
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -94,6 +96,11 @@
   - [83. Remove Duplicates from Sorted List]()
   - [86. Partition List*]()
   - [92. Reverse Linked List II]()
+  - [141. Linked List Cycle]()
+  - [142. Linked List Cycle II]()
+  - [143. Reorder List*]()
+  - [147. Insertion Sort List*]()
+  - [148. Sort List*]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
 ### Queue
@@ -122,7 +129,7 @@
   - [26. Remove Duplicates from Sorted Array]()
   - [27. Remove Element]()
   - [75. Sort Colors *]()
-  - [88. Merge Sorted Array]
+  - [88. Merge Sorted Array]()
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
@@ -133,6 +140,8 @@
   - [74. Search a 2D Matrix]()
   - [80. Remove Duplicates from Sorted Array II]()
   - [81. Search in Rotated Sorted Array II **]()
+  - [153. Find Minimum in Rotated Sorted Array]()
+  - [154. Find Minimum in Rotated Sorted Array II*]()
   - [162. Find Peak Element]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
@@ -145,6 +154,7 @@
  - [120. Triangle]()
  - [121. Best Time to Buy and Sell Stock *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
  - [122. Best Time to Buy and Sell Stock II]()
+ - [152. Maximum Product Subarray]()
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
  - [516. Longest Palindromic Subsequence]()
@@ -162,20 +172,27 @@
 
 ### Backtracking
   - [17. Letter Combinations of a Phone Number]( )
-  - [39. Combination Sum *]()
+  - [22. Generate Parentheses *]()
+  - [39. Combination Sum]()
   - [40. Combination Sum II]()
   - [46. Permutations]()
   - [47. Permutations II]()
-  - [60. Permutation Sequence]()
+  - [60. Permutation Sequence *]()
   - [77. Combinations]()
   - [78. Subsets]()
   - [79. Word Search*]()
   - [89. Gray Code*]()
-  - [90. Subsets II*]()
-  - [93. Restore IP Addresses]()
+  - [90. Subsets II]()
+  - [93. Restore IP Addresses *]()
+  - [131. Palindrome Partitioning]()
+
 
 ### Divide and Conquer
   - [215. Kth Largest Element in an Array*]()
+
+
+
+
 
 ### Math
   - [7. Reverse Integer]()
@@ -191,5 +208,11 @@
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
 
   ### Topological Sort
+  - [133. Clone Graph]()
   - [207. Course Schedule]()
   - [210. Course Schedule II*]()
+  
+
+
+  ## Greedy
+   - [134. Gas Station]()

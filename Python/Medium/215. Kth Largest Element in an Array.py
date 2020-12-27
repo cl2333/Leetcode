@@ -33,5 +33,17 @@ class Solution:
             return self.quickSelect(nums, left, end, k-(left-start))
         return nums[right+1]
             
-            
+
+
+        #heap    
+        from heapq import *
+        result = []
+        for num in nums:
+            if len(result) < n:
+                heappush(result, num)
+            else:
+                if num > result[0]:
+                    heappop(result)
+                    heappush(result, num)
         
+        return heappop(result)       

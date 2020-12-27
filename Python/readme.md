@@ -1,7 +1,7 @@
 ## Data structure
 
 ### String
-  - [5. Longest Palindromic Substring](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/5.%20Longest%20Palindromic%20Substring.py)
+  - [5. Longest Palindromic Substring *](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/5.%20Longest%20Palindromic%20Substring.py)
   - [6. ZigZag Conversion](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/6.%20ZigZag%20Conversion.py)
   - [8. String to Integer (atoi)](https://github.com/cl2333/Leetcode/blob/master/Python/Medium/8.%20String%20to%20Integer%20(atoi).py)
   - [12. Integer to Roman]()
@@ -10,6 +10,8 @@
   - [38. Count and Say]()
   - [58. Length of Last Word]()
   - [125. Valid Palindrome]()
+  - [161. One Edit Distance]()
+  - [165. Compare Version Numbers]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [680. Valid Palindrome II*]()
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
@@ -63,6 +65,7 @@
   - [129. Sum Root to Leaf Numbers]()
   - [144. Binary Tree Inorder Traversal]()
   - [145. Binary Tree Postorder Traversal]()
+  - [156. Binary Tree Upside Down]()
   - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/226.%Invert%%20Binary%20Trees.py)
   - [230. Kth Smallest Element in a BST]()
   - [235. Lowest Common Ancestor of a Binary Search Tree]()
@@ -96,11 +99,14 @@
   - [83. Remove Duplicates from Sorted List]()
   - [86. Partition List*]()
   - [92. Reverse Linked List II]()
+  - [138. Copy List with Random Pointer *]()
   - [141. Linked List Cycle]()
   - [142. Linked List Cycle II]()
   - [143. Reorder List*]()
   - [147. Insertion Sort List*]()
   - [148. Sort List*]()
+  - [160. Intersection of Two Linked Lists*]()
+  - [203. Remove Linked List Elements]()
   - [876. Middle of the Linked List](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/876.%20Middle%20of%20the%20Linked%20List.py) 
 
 ### Queue
@@ -133,6 +139,12 @@
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
+
+### Sliding Windows
+ - [159. Longest Substring with At Most Two Distinct Characters]()
+ - [209. Minimum Size Subarray Sum]()
+ - [340. Longest Substring with At Most K Distinct Characters *]()
+
 
 ### Binary Search
   - [33. Search in Rotated Sorted Array *]()
@@ -185,13 +197,11 @@
   - [90. Subsets II]()
   - [93. Restore IP Addresses *]()
   - [131. Palindrome Partitioning]()
+  - [216. Combination Sum III]()
 
 
 ### Divide and Conquer
   - [215. Kth Largest Element in an Array*]()
-
-
-
 
 
 ### Math
@@ -214,5 +224,16 @@
   
 
 
-  ## Greedy
+  ### Greedy
    - [134. Gas Station]()
+
+
+  ### Bit-wise
+  - [190. Reverse Bits]()
+  - [191. Number of 1 Bits]()
+  - [201. Bitwise AND of Numbers Range]()
+
+
+
+  ### Math
+  - [202. Happy Number]()

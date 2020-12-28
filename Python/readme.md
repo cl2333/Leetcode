@@ -33,6 +33,7 @@
   - [154. Find Minimum in Rotated Sorted Array II*]()
   - [162. Find Peak Element]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
+  - [179. Largest Number *]()
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
@@ -71,6 +72,7 @@
   - [235. Lowest Common Ancestor of a Binary Search Tree]()
   - [236. Lowest Common Ancestor of a Binary Tree*]()
   - [270. Closest Binary Search Tree Value *]()
+  - [337. House Robber III]()
   - [450. Delete Node in a BST]()
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
   - [617. Merge Two Binary Trees](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/617.%20Merge%20Two%20Binary%20Trees.py) 
@@ -83,6 +85,7 @@
   - [49. Group Anagrams]()
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [137. Single Number II]()
+  - [205. Isomorphic Strings]()
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [454. 4Sum II]()
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -168,6 +171,7 @@
  - [122. Best Time to Buy and Sell Stock II]()
  - [152. Maximum Product Subarray]()
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
+ - [213. House Robber II]()
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
  - [516. Longest Palindromic Subsequence]()
 
@@ -215,18 +219,19 @@
   - [62. Unique Paths]()
   - [67. Add Binary *]()
   - [69. Sqrt(x)]()
+  - [168. Excel Sheet Column Title]()
+  - [171. Excel Sheet Column Number]()
+  - [202. Happy Number *]()
+  - [204. Count Primes *]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
 
   ### Topological Sort
   - [133. Clone Graph]()
   - [207. Course Schedule]()
   - [210. Course Schedule II*]()
-  
-
 
   ### Greedy
    - [134. Gas Station]()
-
 
   ### Bit-wise
   - [190. Reverse Bits]()
@@ -234,6 +239,5 @@
   - [201. Bitwise AND of Numbers Range]()
 
 
-
-  ### Math
-  - [202. Happy Number]()
+  ### Design
+  - []()

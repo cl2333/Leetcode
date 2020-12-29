@@ -12,6 +12,7 @@
   - [125. Valid Palindrome]()
   - [161. One Edit Distance]()
   - [165. Compare Version Numbers]()
+  - [293. Flip Game]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [680. Valid Palindrome II*]()
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
@@ -72,6 +73,7 @@
   - [235. Lowest Common Ancestor of a Binary Search Tree]()
   - [236. Lowest Common Ancestor of a Binary Tree*]()
   - [270. Closest Binary Search Tree Value *]()
+  - [298. Binary Tree Longest Consecutive Sequence]()
   - [337. House Robber III]()
   - [450. Delete Node in a BST]()
   - [543. Diameter of Binary Tree ](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/543.%20Diameter%20of%20Binary%20Tree.py) 
@@ -85,7 +87,10 @@
   - [49. Group Anagrams]()
   - [136. Single Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/136.%20Single%20Number.py) 
   - [137. Single Number II]()
+  - [187. Repeated DNA Sequences]()
   - [205. Isomorphic Strings]()
+  - [217. Contains Duplicate]()
+  - [219. Contains Duplicate II *]()
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [454. 4Sum II]()
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -173,6 +178,7 @@
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [213. House Robber II]()
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
+ - [300. Longest Increasing Subsequence *]()
  - [516. Longest Palindromic Subsequence]()
 
 ### Breath-first Search
@@ -202,6 +208,7 @@
   - [93. Restore IP Addresses *]()
   - [131. Palindrome Partitioning]()
   - [216. Combination Sum III]()
+  - [294. Flip Game II]()
 
 
 ### Divide and Conquer
@@ -221,8 +228,11 @@
   - [69. Sqrt(x)]()
   - [168. Excel Sheet Column Title]()
   - [171. Excel Sheet Column Number]()
+  - [172. Factorial Trailing Zeroes *]()
   - [202. Happy Number *]()
   - [204. Count Primes *]()
+  - [268. Missing Number]()
+  - [292. Nim Game]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
 
   ### Topological Sort

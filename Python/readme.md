@@ -134,6 +134,11 @@
   - [57. Insert Interval]()
   - [1122. Relative Sort Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1122.%20Relative%20Sort%20Array.py)
 
+### Bucket Sort
+  - [274. H-Index *]()
+  - []
+
+
 ### Two pointers
   - [3. Longest Substring Without Repeating Characters]( )
   - [11. Container With Most Water]( )
@@ -145,6 +150,7 @@
   - [75. Sort Colors *]()
   - [88. Merge Sorted Array]()
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
+  - [287. Find the Duplicate Number]()
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
 
@@ -152,7 +158,6 @@
  - [159. Longest Substring with At Most Two Distinct Characters]()
  - [209. Minimum Size Subarray Sum]()
  - [340. Longest Substring with At Most K Distinct Characters *]()
-
 
 ### Binary Search
   - [33. Search in Rotated Sorted Array *]()
@@ -163,6 +168,7 @@
   - [153. Find Minimum in Rotated Sorted Array]()
   - [154. Find Minimum in Rotated Sorted Array II*]()
   - [162. Find Peak Element]()
+  - [275. H-Index II]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming
@@ -186,6 +192,7 @@
   - [130. Surrounded Regions*]()
   - [133. Clone Graph]()
   - [200. Number of Islands]()
+  - [286. Walls and Gates]()
 
 ### Depth-first Search  
   - [101. Symmetric Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/101.%20Symmetric%20Tree.py)

@@ -12,6 +12,7 @@
   - [125. Valid Palindrome]()
   - [161. One Edit Distance]()
   - [165. Compare Version Numbers]()
+  - [186. Reverse Words in a String II]()
   - [293. Flip Game]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [680. Valid Palindrome II*]()
@@ -35,6 +36,8 @@
   - [162. Find Peak Element]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [179. Largest Number *]()
+  - [229. Majority Element II *]() (Boyer-Moore)
+  - [277. Find the Celebrity]()
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
@@ -68,11 +71,13 @@
   - [144. Binary Tree Inorder Traversal]()
   - [145. Binary Tree Postorder Traversal]()
   - [156. Binary Tree Upside Down]()
+  - [222. Count Complete Tree Nodes *]()
   - [226. Invert Binary Tree](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/226.%Invert%%20Binary%20Trees.py)
   - [230. Kth Smallest Element in a BST]()
   - [235. Lowest Common Ancestor of a Binary Search Tree]()
   - [236. Lowest Common Ancestor of a Binary Tree*]()
   - [270. Closest Binary Search Tree Value *]()
+  - [285. Inorder Successor in BST *]()
   - [298. Binary Tree Longest Consecutive Sequence]()
   - [337. House Robber III]()
   - [450. Delete Node in a BST]()
@@ -91,6 +96,7 @@
   - [205. Isomorphic Strings]()
   - [217. Contains Duplicate]()
   - [219. Contains Duplicate II *]()
+  - [266. Palindrome Permutation]()
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [454. 4Sum II]()
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
@@ -132,11 +138,17 @@
 ### Sort
   - [56. Merge Intervals]()
   - [57. Insert Interval]()
+  - [280. Wiggle Sort*]()
   - [1122. Relative Sort Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1122.%20Relative%20Sort%20Array.py)
 
 ### Bucket Sort
   - [274. H-Index *]()
-  - []
+  - [220. Contains Duplicate III *]()
+
+### Topological Sort
+  - [133. Clone Graph]()
+  - [207. Course Schedule]()
+  - [210. Course Schedule II*]()
 
 
 ### Two pointers
@@ -169,6 +181,7 @@
   - [154. Find Minimum in Rotated Sorted Array II*]()
   - [162. Find Peak Element]()
   - [275. H-Index II]()
+  - [278. First Bad Version]()
   - [852. Peak Index in a Mountain Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
 
 ### Dynamic Programming
@@ -184,6 +197,8 @@
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [213. House Robber II]()
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
+ - [265. Paint House II]()
+ - [276. Paint Fence *]()
  - [300. Longest Increasing Subsequence *]()
  - [516. Longest Palindromic Subsequence]()
 
@@ -215,6 +230,7 @@
   - [93. Restore IP Addresses *]()
   - [131. Palindrome Partitioning]()
   - [216. Combination Sum III]()
+  - [267. Palindrome Permutation II *]()
   - [294. Flip Game II]()
 
 
@@ -238,14 +254,13 @@
   - [172. Factorial Trailing Zeroes *]()
   - [202. Happy Number *]()
   - [204. Count Primes *]()
+  - [223. Rectangle Area]()
+  - [263. Ugly Number]()
+  - [264. Ugly Number II*]()
   - [268. Missing Number]()
+  - [279. Perfect Squares *]()
   - [292. Nim Game]()
   - [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py)
-
-  ### Topological Sort
-  - [133. Clone Graph]()
-  - [207. Course Schedule]()
-  - [210. Course Schedule II*]()
 
   ### Greedy
    - [134. Gas Station]()
@@ -257,4 +272,4 @@
 
 
   ### Design
-  - []()
+  - [288. Unique Word Abbreviation]()

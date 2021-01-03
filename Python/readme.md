@@ -14,6 +14,7 @@
   - [165. Compare Version Numbers]()
   - [186. Reverse Words in a String II]()
   - [293. Flip Game]()
+  - [271. Encode and Decode Strings]()
   - [557. Reverse Words in a String III](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.py)
   - [680. Valid Palindrome II*]()
   - [709. To Lower Case](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/709.%20To%20Lower%20Case.py)
@@ -129,6 +130,7 @@
 ### Stack
   - [20. Valid Parentheses](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/20.%20Valid%20Parentheses.py)
   - [71. Simplify Path *]()
+  - [227. Basic Calculator II *]()
   - [155. Min Stack](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/155.%20Min%20Stack.py)
   - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
@@ -199,6 +201,7 @@
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
  - [265. Paint House II]()
  - [276. Paint Fence *]()
+ - [279. Perfect Squares]()
  - [300. Longest Increasing Subsequence *]()
  - [516. Longest Palindromic Subsequence]()
 
@@ -269,7 +272,9 @@
   - [190. Reverse Bits]()
   - [191. Number of 1 Bits]()
   - [201. Bitwise AND of Numbers Range]()
+  - [231. Power of Two]()
 
 
   ### Design
+  - [281. Zigzag Iterator]()
   - [288. Unique Word Abbreviation]()

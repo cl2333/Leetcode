@@ -14,6 +14,18 @@ class Solution:
                 return i
             
         return -1
-            
-                
+
+
+        x = 0
+        for i in range(n):
+            if knows(x, i):
+                x = i
+        
+        for i in range(x):
+            if knows(x, i):
+                return -1
+        
+        for i in range(n):
+            if not knows(i, x):
+                return -1
             

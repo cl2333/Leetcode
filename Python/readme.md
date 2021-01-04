@@ -39,6 +39,7 @@
   - [179. Largest Number *]()
   - [229. Majority Element II *]() (Boyer-Moore)
   - [277. Find the Celebrity]()
+  - [289. Game of Life]()
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
@@ -140,6 +141,8 @@
 ### Sort
   - [56. Merge Intervals]()
   - [57. Insert Interval]()
+  - [252. Meeting Rooms]()
+  - [253. Meeting Rooms II*]()
   - [280. Wiggle Sort*]()
   - [1122. Relative Sort Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1122.%20Relative%20Sort%20Array.py)
 
@@ -258,6 +261,7 @@
   - [202. Happy Number *]()
   - [204. Count Primes *]()
   - [223. Rectangle Area]()
+  - [238. Product of Array Except Self *]()
   - [263. Ugly Number]()
   - [264. Ugly Number II*]()
   - [268. Missing Number]()
@@ -276,5 +280,6 @@
 
 
   ### Design
+  - [251. Flatten 2D Vector]()
   - [281. Zigzag Iterator]()
   - [288. Unique Word Abbreviation]()

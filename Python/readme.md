@@ -37,6 +37,7 @@
   - [162. Find Peak Element]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
   - [179. Largest Number *]()
+  - [228. Summary Ranges]()
   - [229. Majority Element II *]() (Boyer-Moore)
   - [277. Find the Celebrity]()
   - [289. Game of Life]()
@@ -280,6 +281,11 @@
 
 
   ### Design
+  - [173. Binary Search Tree Iterator]()
+  - [225. Implement Stack using Queues]()
+  - [232. Implement Queue using Stacks]()
   - [251. Flatten 2D Vector]()
   - [281. Zigzag Iterator]()
+  - [284. Peeking Iterator*]()
   - [288. Unique Word Abbreviation]()
+

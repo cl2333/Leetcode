@@ -41,6 +41,8 @@
   - [228. Summary Ranges]()
   - [229. Majority Element II *]() (Boyer-Moore)
   - [277. Find the Celebrity]()
+  - [243. Shortest Word Distance]()
+  - [245. Shortest Word Distance III]()
   - [289. Game of Life]()
   - [448. Find All Numbers Disappeared in an Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
@@ -103,6 +105,10 @@
   - [205. Isomorphic Strings]()
   - [217. Contains Duplicate]()
   - [219. Contains Duplicate II *]()
+  - [244. Shortest Word Distance II*]()
+  - [246. Strobogrammatic Number]()
+  - [249. Group Shifted Strings]()
+  - [260. Single Number III]()
   - [266. Palindrome Permutation]()
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [454. 4Sum II]()
@@ -180,6 +186,7 @@
 ### Sliding Windows
  - [159. Longest Substring with At Most Two Distinct Characters]()
  - [209. Minimum Size Subarray Sum]()
+ - [239. Sliding Window Maximum]()
  - [340. Longest Substring with At Most K Distinct Characters *]()
 
 ### Binary Search
@@ -208,6 +215,7 @@
  - [152. Maximum Product Subarray]()
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [213. House Robber II]()
+ - [221. Maximal Square *]()
  - [256. Paint House *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/256.%20Paint%20House.py)
  - [265. Paint House II]()
  - [276. Paint Fence *]()
@@ -220,6 +228,7 @@
   - [130. Surrounded Regions*]()
   - [133. Clone Graph]()
   - [200. Number of Islands]()
+  - [261. Graph Valid Tree *]()
   - [286. Walls and Gates]()
 
 ### Depth-first Search  
@@ -243,13 +252,15 @@
   - [93. Restore IP Addresses *]()
   - [131. Palindrome Partitioning]()
   - [216. Combination Sum III]()
+  - [247. Strobogrammatic Number II]()
   - [254. Factor Combinations *]()
   - [267. Palindrome Permutation II *]()
   - [294. Flip Game II]()
 
 
 ### Divide and Conquer
-  - [215. Kth Largest Element in an Array*]()
+  - [215. Kth Largest Element in an Array *]()
+  - [241. Different Ways to Add Parentheses *]()
 
 
 ### Math

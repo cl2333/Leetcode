@@ -116,6 +116,12 @@
   - [1002. Find Common Characters](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1002.%20Find%20Common%20Characters.py) 
   - [1160. Find Words That Can Be Formed by Characters](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) 
 
+
+### Trie
+  - [208. Implement Trie (Prefix Tree)]()
+  - [212. Word Search II *]()
+  - [677. Map Sum Pairs]()
+
 ### Linked List
   - [2. Add Two Numbers]()
   - [19. Remove Nth Node From End of List]()
@@ -211,7 +217,9 @@
  - [91. Decode Ways]()
  - [120. Triangle]()
  - [121. Best Time to Buy and Sell Stock *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
- - [122. Best Time to Buy and Sell Stock II]()
+ - [122. Best Time to Buy and Sell Stock II]() 
+ - [139. Word Break *]()
+ - [140. Word Break II *]()
  - [152. Maximum Product Subarray]()
  - [198. House Robber *](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/198.%20House%20Robber.py)
  - [213. House Robber II]()
@@ -224,6 +232,7 @@
  - [516. Longest Palindromic Subsequence]()
 
 ### Breath-first Search
+  - [126. Word Ladder II *]()
   - [127. Word Ladder *]()
   - [130. Surrounded Regions*]()
   - [133. Clone Graph]()

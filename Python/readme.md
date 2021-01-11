@@ -37,7 +37,7 @@
   - [162. Find Peak Element]()
   - [163. Missing Ranges *]()
   - [169. Majority Element](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/169.%20Majority%20Element.py) 
-  - [179. Largest Number *]()
+  - [179. Largest Number *]( )
   - [228. Summary Ranges]()
   - [229. Majority Element II *]() (Boyer-Moore)
   - [277. Find the Celebrity]()
@@ -48,6 +48,7 @@
   - [463. Island Perimeter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/463.%20Island%20Perimeter.py) 
   - [509. Fibonacci Number](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/509.%20Fibonacci%20Number.py) 
   - [561. Array Partition I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/561.%20Array%20Partition%20I.py) 
+  - [581. Shortest Unsorted Continuous Subarray]()
   - [611. Valid Triangle Number *]()
   - [905. Sort Array By Parity](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/905.%20Sort%20Array%20By%20Parity.py) 
   - [1086. High Five](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1086.%20High%20Five.py) 
@@ -112,6 +113,7 @@
   - [266. Palindrome Permutation]()
   - [359. Logger Rate Limiter](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/359.%20Logger%20Rate%20Limiter.py) 
   - [454. 4Sum II]()
+  - [560. Subarray Sum Equals K *]()
   - [771. Jewels and Stones](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/771.%20Jewels%20and%20Stones.py) 
   - [1002. Find Common Characters](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1002.%20Find%20Common%20Characters.py) 
   - [1160. Find Words That Can Be Formed by Characters](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.py) 
@@ -151,6 +153,7 @@
   - [227. Basic Calculator II *]()
   - [155. Min Stack](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/155.%20Min%20Stack.py)
   - [496. Next Greater Element I](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/496.%20Next%20Greater%20Element%20I.py)
+  - [739. Daily Temperatures]()
   - [1047. Remove All Adjacent Duplicates In String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py)
 
 
@@ -187,6 +190,7 @@
   - [283. Move Zeroes](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/283.%20Move%20Zeroes.py)
   - [287. Find the Duplicate Number]()
   - [344. Reverse String](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/344.%20Reverse%20String.py)
+  - [763. Partition Labels *]()
   - [977. Squares of a Sorted Array](https://github.com/cl2333/Leetcode/blob/master/Python/Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
 
 ### Sliding Windows
@@ -194,7 +198,8 @@
  - [209. Minimum Size Subarray Sum]()
  - [239. Sliding Window Maximum]()
  - [340. Longest Substring with At Most K Distinct Characters *]()
-
+ - [438. Find All Anagrams in a String]()
+ 
 ### Binary Search
   - [33. Search in Rotated Sorted Array *]()
   - [34. Find First and Last Position of Element in Sorted Array *]()
@@ -230,6 +235,7 @@
  - [279. Perfect Squares]()
  - [300. Longest Increasing Subsequence *]()
  - [516. Longest Palindromic Subsequence]()
+ - [647. Palindromic Substrings]()
 
 ### Breath-first Search
   - [126. Word Ladder II *]()
